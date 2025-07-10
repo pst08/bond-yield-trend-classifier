@@ -1,0 +1,9 @@
+yfinance
+pandas_datareader
+fredapi
+vaderSentiment
+scikit-learn
+streamlit
+plotly
+matplotlib
+seaborn

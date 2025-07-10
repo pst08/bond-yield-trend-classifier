@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# MacOS/Windows
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+
+# Environment
+.env
+.venv/
+env/
+bondai/
+
+# Output
+/output/
